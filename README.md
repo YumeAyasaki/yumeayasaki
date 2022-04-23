@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+Hope you not expected things from me, because i will not be the person who have bright idea or anything like that...
+
+## Basic info
+- Second year in HCMUS-VNU.
+- Have plan to learn (every) as many popular programme language as possible, like JS, Python or C#...
+- Shining brightest at software developing.
+- Want to collab as much as i can, because i lack experience.
+- Free to chat about anything, i can be your listener...
+- Active the most on [Facebook](https://www.facebook.com/Quang.Nguyen.Duy.Nhoi/) and [Discord](https://discordapp.com/users/yume#1170). Not so sure about the other like Outlook or Gmail or whatever, but will try my best.
+- Maybe not-fun-fact, but, well, just look at my avatar...
+
+
 <!--
 **YumeAyasaki/yumeayasaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
